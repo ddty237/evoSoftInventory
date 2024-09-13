@@ -15,7 +15,7 @@ function BoutiqueCard({ data }) {
           </h2>
           <p>{data.adresse}</p>
           <div className="card-actions">
-            <button className="btn">Entrer</button>
+            <button className="btn text-white bg-orange-500">Entrer</button>
           </div>
         </div>
       </div>
